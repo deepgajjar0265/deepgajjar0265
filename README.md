@@ -33,10 +33,9 @@
 ---
 
 - 🖥️ I use daily: `.ts`, `.js`, `.tsx`, `.json`, `.php`, `.html`, `.css`
-- 👀 Looking to collaborate on Open Source Projects
 - 🌱 Learning more about and studying: **Next.js, React.js, MySQL, PHP, UI/UX**
 - 💬 Ask me about **React JS, Next.js, JavaScript**
 - 📫 How to reach me **gajjardeep63@gmail.com**
-- 🤖 Love to leverage the power of AI in development!
+
 
 ---
