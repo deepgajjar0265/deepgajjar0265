@@ -12,7 +12,7 @@
 <div align="center">
 <picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="350px"></picture>
 </div>
-<h3 align="center">Front-end Developer</h3>
+<h3 align="center">Cyber security analysis</h3>
 
 ---
 
@@ -20,9 +20,6 @@
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
-  <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40" />
@@ -32,10 +29,11 @@
 
 ---
 
-- 🖥️ I use daily: `.ts`, `.js`, `.tsx`, `.json`, `.php`, `.html`, `.css`
-- 🌱 Learning more about and studying: **Next.js, React.js, MySQL, PHP, UI/UX**
-- 💬 Ask me about **React JS, Next.js, JavaScript**
+- 🖥️ I use daily: Wireshark, Nmap, Angry IP Scanner, Advanced IP Scanner, Burp Suite, dirb, gobuster
+- 🌱 Learning more about and studying: Network Security, Penetration Testing, Linux Networking, Firewalls, IDS/IPS
+- 💬 Ask me about Packet Analysis, Network Scanning, Reconnaissance, Vulnerability Scanning
 - 📫 How to reach me **gajjardeep63@gmail.com**
 
 
 ---
+
